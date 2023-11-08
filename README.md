@@ -1,4 +1,4 @@
-You should read the files in the repository in the following order
+You should read the files in the repository in the following order:
 
 1. ArrayCreation
 2. ArrayBasics
